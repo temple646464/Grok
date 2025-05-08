@@ -9,7 +9,7 @@ import os
 from webdriver_manager.chrome import ChromeDriverManager
 
 # Bot token from environment variable
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+TOKEN = os.getenv("7793230457:AAGSNLF1YzjSPFnuKPKZJhEjYN-NPsSs2p8")
 
 # Function to check Netflix login
 def check_netflix(email, password):
